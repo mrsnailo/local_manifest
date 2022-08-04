@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/redmi/rosemary" name="Kasumi-Devices/android_device_redmi_rosemary.git" remote="github" revision="kasumi-v1" />
+ <project path="device/redmi/rosemary" name="android-tweak/android_device_redmi_rosemary.git" remote="github" revision="kasumi-v1" />
  <project path="vendor/redmi/rosemary" name="windowz414/android_vendor_redmi_rosemary.git" remote="github" revision="eleven" />
  <project path="kernel/redmi/rosemary" name="windowz414/android_kernel_redmi_rosemary.git" remote="github" revision="lineage-18.1" />
  
